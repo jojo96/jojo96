@@ -26,7 +26,14 @@ Hi! Jojo here👋👋 In my free time, I love playing around with Python, doing 
 
 #### Contributions
 
-My Web VR generator app has been featured in the official [Streamlit](https://streamlit.io/gallery?type=apps&category=other) gallery.
+- My Web VR generator app has been featured in the official [Streamlit](https://streamlit.io/gallery?type=apps&category=other) gallery.
+
+#### Blog posts
+
+- Find me here on [Medium](https://jojo96.medium.com/)
+
+- Technical writings @[AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/ujjayanta/)
+
 
 
 #### Contacts
