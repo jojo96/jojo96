@@ -33,8 +33,6 @@ My Web VR generator app has been featured in the official [Streamlit](https://st
 
 Twitter: [@I_m_Jojo](https://twitter.com/I_m_Jojo)
 
-Telegram: [@la_stik](https://t.me/la_stik)
-
 LinkedIn: [ujjayanta-bhaumik](https://www.linkedin.com/in/ujjayanta-bhaumik/)
 
 Email: [mail](mailto:ujjayanta.bhaumik.18@ucl.ac.uk)
