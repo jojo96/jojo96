@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi! Jojo here👋👋 In my free time, I love playing around with Python, doing [origami](https://www.instagram.com/crafts_jojo/) and bit of juggling.
 
-#### Alwas open to collaborations. Leave me a message via [Twitter](https://twitter.com/I_m_Jojo)
+#### Always open to collaborations. Leave me a message via [Twitter](https://twitter.com/I_m_Jojo)
 
 #### Projects
 [💻 WebVR Code Generator](https://share.streamlit.io/jojo96/webvrcodegenerator/main/ar.py) - A Web VR code generator developed using Streamlit and A-Frame
