@@ -37,6 +37,8 @@ Hi! Jojo here👋👋 In my free time, I love playing around with Python, doing 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jojo96&theme=default)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jojo96&theme=default)
+
 #### Contacts
 
 Twitter: [@I_m_Jojo](https://twitter.com/I_m_Jojo)
