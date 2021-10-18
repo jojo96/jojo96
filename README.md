@@ -34,7 +34,7 @@ Hi! Jojo here👋👋 In my free time, I love playing around with Python, doing 
 
 - Technical writings @[AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/ujjayanta/)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jojo96&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Contacts
 
@@ -42,7 +42,7 @@ Twitter: [@I_m_Jojo](https://twitter.com/I_m_Jojo)
 
 LinkedIn: [ujjayanta-bhaumik](https://www.linkedin.com/in/ujjayanta-bhaumik/)
 
-Email: [mail](mailto:ujjayanta.bhaumik.18@ucl.ac.uk)
+[Email](mailto:ujjayanta.bhaumik.18@ucl.ac.uk)
 
 If you like my work, you can support me here: 😄
 
