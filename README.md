@@ -35,9 +35,8 @@ Hi! Jojo here👋👋 In my free time, I love playing around with Python, doing 
 - Technical writings @[AnalyticsVidhya](https://www.analyticsvidhya.com/blog/author/ujjayanta/)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jojo96&theme=default)
+[![Jojo's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojo-96)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jojo96&theme=default)
 
 #### Contacts
 
