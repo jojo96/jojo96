@@ -20,6 +20,8 @@ Hi! Jojo here👋👋 In my free time, I love playing around with Python, doing 
 #### Always open to collaborations. Leave me a message via [Twitter](https://twitter.com/I_m_Jojo)
 
 #### Projects
+[💻 My travel stories](https://jojo96.github.io/my_travel_stories/) - A website documenting my travels, developed using React 
+
 [💻 WebVR Code Generator](https://share.streamlit.io/jojo96/webvrcodegenerator/main/ar.py) - A Web VR code generator developed using Streamlit and A-Frame
 
 [📷 Augmented Reality Face Tracker](https://jojo96.github.io/Ar-face-tracker/) - An Augmented Reality Face tracker made using Zappar. [Repo](https://github.com/jojo96/Ar-face-tracker)
